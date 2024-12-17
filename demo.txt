@@ -1,3 +1,9 @@
 Hi this is Pooja P
 
 Welcome to the Git
+
+#Addition
+
+#Subtraction 
+
+#Multiplication
